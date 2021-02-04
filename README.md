@@ -76,7 +76,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pakshi10&show_icons=true&count_private=true" align="center" /></div>  
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakshi10" />
+
 
 <br/>  
 
