@@ -3,15 +3,15 @@
 
 # <div align="center">WELCOME TO THE MATRIX 👨‍💻</div>  
   
-### <div align="center">I'm shubham, a Machine Learning Researcher 🤖</div>  
+### <div align="center">I'm Akshay, a aspiring Deep Learning Engineer 🤖</div>  
 
--  🔭 I’m currently working at IIT Bombay  
+-  🔭 I’m currently working at IHA  
   
 
-- 🌱 I’m currently learning AI constriant methods  
+- 🌱 I’m currently learning Deep Learning  
   
 
-- ❓ Ask me about anything related to Image processing and NLP  
+- ❓ Ask me about anything related to Machine Learning and Deep Learning
   
 
 - ⚡ Fun fact: I can Handle Tensorflow 1.x Errors 
