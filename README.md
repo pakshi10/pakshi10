@@ -14,7 +14,7 @@
 - ❓ Ask me about anything related to Machine Learning and Deep Learning
   
 
-- ⚡ Fun fact: I can Handle Tensorflow 1.x Errors 
+- ⚡ Fun fact: I can apply my knowledge
   
 
 <br/>  
