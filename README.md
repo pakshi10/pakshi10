@@ -24,7 +24,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" height="50" />
+
 
 <br/> 
 <br/>
@@ -50,7 +50,7 @@
 <br/> 
 <br/> 
   
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/linux/linux-original.svg" alt="Linux" height="50" />
 
 </div>  
@@ -60,7 +60,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/charlie6echo" target="_blank">
+<a href="https://github.com/pakshi10" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/shubhamc6e" target="_blank">
