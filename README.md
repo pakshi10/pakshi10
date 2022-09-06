@@ -5,7 +5,7 @@
   
 ### <div align="center">I'm Akshay, a aspiring Deep Learning Engineer 🤖</div>  
 
--  🔭 I’m currently working at Wobot as Computer Vision Intern 
+-  🔭 I’m currently working at EarthSense as Computer Vision Engineer 
   
 
 - 🌱 I’m currently learning Deep Learning  
