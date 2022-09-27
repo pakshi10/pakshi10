@@ -8,7 +8,7 @@
 -  🔭 I’m currently working at EarthSense as Computer Vision Engineer 
   
 
-- 🌱 I’m currently learning Deep Learning  
+- 🌱 I’m currently implementing Deep Learning .  
   
 
 - ❓ Ask me about anything related to Machine Learning and Deep Learning
