@@ -3,12 +3,12 @@
 
 # <div align="center">WELCOME TO THE MATRIX 👨‍💻</div>  
   
-### <div align="center">I'm Akshay, a aspiring Deep Learning Engineer 🤖</div>  
+### <div align="center">I'm Akshay, Deep Learning Engineer 🤖</div>  
 
 -  🔭 I’m currently working at EarthSense as Computer Vision Engineer 
   
 
-- 🌱 I’m currently implementing Deep Learning .  
+- 🌱 I’m currently implementing Deep Learning to edge and cloud .  
   
 
 - ❓ Ask me about anything related to Machine Learning and Deep Learning
