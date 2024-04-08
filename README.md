@@ -5,10 +5,10 @@
   
 ### <div align="center">I'm Akshay, Deep Learning Engineer 🤖</div>  
 
--  🔭 I’m currently working at EarthSense as Computer Vision Engineer 
+-  🔭 I’m currently working at EarthSense as Senior Computer Vision Engineer 
   
 
-- 🌱 I’m currently implementing Deep Learning to edge and cloud .  
+- 🌱 I’m currently implementing Deep Learning to edge and Robot .  
   
 
 - ❓ Ask me about anything related to Machine Learning and Deep Learning
